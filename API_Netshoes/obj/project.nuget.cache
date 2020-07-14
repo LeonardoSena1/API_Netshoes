@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9CcZQuFiIn5DT6HKz7WnIjfoszPFt3Z/Y5PJRtcXKizXzxkjSvYEHUMWDS2ss2xDWueZBykswEzpg/azPw12gQ==",
+  "success": true,
+  "projectFilePath": "D:\\_DevSRMIDIA\\API_Netshoes\\API_Netshoes\\API_Netshoes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leonardo Sena\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Leonardo Sena\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

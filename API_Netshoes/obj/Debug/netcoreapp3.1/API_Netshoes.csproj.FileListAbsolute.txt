@@ -1,0 +1,16 @@
+D:\_DevSRMIDIA\API_Netshoes\API_Netshoes\bin\Debug\netcoreapp3.1\API_Netshoes.exe
+D:\_DevSRMIDIA\API_Netshoes\API_Netshoes\obj\Debug\netcoreapp3.1\API_Netshoes.csprojAssemblyReference.cache
+D:\_DevSRMIDIA\API_Netshoes\API_Netshoes\obj\Debug\netcoreapp3.1\API_Netshoes.AssemblyInfoInputs.cache
+D:\_DevSRMIDIA\API_Netshoes\API_Netshoes\obj\Debug\netcoreapp3.1\API_Netshoes.AssemblyInfo.cs
+D:\_DevSRMIDIA\API_Netshoes\API_Netshoes\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\_DevSRMIDIA\API_Netshoes\API_Netshoes\obj\Debug\netcoreapp3.1\API_Netshoes.csproj.CopyComplete
+D:\_DevSRMIDIA\API_Netshoes\API_Netshoes\bin\Debug\netcoreapp3.1\API_Netshoes.deps.json
+D:\_DevSRMIDIA\API_Netshoes\API_Netshoes\bin\Debug\netcoreapp3.1\API_Netshoes.runtimeconfig.json
+D:\_DevSRMIDIA\API_Netshoes\API_Netshoes\bin\Debug\netcoreapp3.1\API_Netshoes.runtimeconfig.dev.json
+D:\_DevSRMIDIA\API_Netshoes\API_Netshoes\bin\Debug\netcoreapp3.1\API_Netshoes.dll
+D:\_DevSRMIDIA\API_Netshoes\API_Netshoes\bin\Debug\netcoreapp3.1\API_Netshoes.pdb
+D:\_DevSRMIDIA\API_Netshoes\API_Netshoes\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\_DevSRMIDIA\API_Netshoes\API_Netshoes\obj\Debug\netcoreapp3.1\API_Netshoes.csproj.CoreCompileInputs.cache
+D:\_DevSRMIDIA\API_Netshoes\API_Netshoes\obj\Debug\netcoreapp3.1\API_Netshoes.dll
+D:\_DevSRMIDIA\API_Netshoes\API_Netshoes\obj\Debug\netcoreapp3.1\API_Netshoes.pdb
+D:\_DevSRMIDIA\API_Netshoes\API_Netshoes\obj\Debug\netcoreapp3.1\API_Netshoes.genruntimeconfig.cache
